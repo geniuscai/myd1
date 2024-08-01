@@ -1,0 +1,4 @@
+{
+  "extends": "next/core-web-vitals"
+  // Remove the "settings" object completely 
+}
